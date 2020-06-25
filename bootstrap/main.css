@@ -18,7 +18,7 @@ html {
 
 .cloud-bg{
     margin-top: 2rem;
-    height: 32rem !important;
+    height: 41rem !important;
     background-image:url(../img/cloud.jpg);
     min-height: 500px; 
     background-attachment: fixed;
